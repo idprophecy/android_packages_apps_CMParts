@@ -32,6 +32,12 @@
         android:summary="@string/status_bar_toggle_brightness_summary"
         android:defaultValue="false" />
 
+    <cyanogenmod.preference.SystemSettingSwitchPreference
+        android:key="qs_show_brightness_icon"
+        android:title="@string/brightness_icon_title"
+        android:summary="@string/brightness_icon_summary"
+        android:defaultValue="false"/>
+
     <PreferenceCategory
         android:title="@string/status_bar_icons_title">
 
