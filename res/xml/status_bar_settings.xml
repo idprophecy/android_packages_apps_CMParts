@@ -53,6 +53,12 @@
             </intent>
         </PreferenceScreen>
 
+        <cyanogenmod.preference.SystemSettingSwitchPreference
+            android:key="show_su_indicator"
+            android:title="@string/su_indicator"
+            android:summary="@string/su_indicator_summary"
+            android:defaultValue="true" />
+
     </PreferenceCategory>
 
     <PreferenceCategory

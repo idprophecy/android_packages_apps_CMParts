@@ -620,4 +620,8 @@
     <string name="touchscreen_gesture_action_play_pause_music">Play/pause music playback</string>
     <string name="touchscreen_gesture_action_previous_track">Navigate to the previous music track</string>
     <string name="touchscreen_gesture_action_next_track">Skip to the next music track</string>
+
+    <!-- Superuser indicator on status bar -->
+    <string name="su_indicator">Superuser indicator</string>
+    <string name="su_indicator_summary">Show superuser indicator on status bar when a session is active (restart required)</string>
 </resources>
