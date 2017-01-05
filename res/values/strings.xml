@@ -624,4 +624,8 @@
     <!-- Superuser indicator on status bar -->
     <string name="su_indicator">Superuser indicator</string>
     <string name="su_indicator_summary">Show superuser indicator on status bar when a session is active (restart required)</string>
+
+    <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pixel navbar animation</string>
+    <string name="pixel_navbar_anim_summary">Enables the pixel navbar animation (restart required)</string>
 </resources>
