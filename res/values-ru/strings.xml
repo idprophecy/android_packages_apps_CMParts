@@ -549,7 +549,7 @@
   <string name="su_indicator">Индикатор суперпользователя</string>
   <string name="su_indicator_summary">Показывать индикатор суперпользователя в строке состояния, когда сеанс активен (требуется перезагрузка)</string>
   <string name="pixel_navbar_anim_title">Pixel анимация панели навигации</string>
-  <string name="pixel_navbar_anim_summary">Включить анимацию кнопки "Домой" на панели навигации (требуется перезагрузка)</string>
+  <string name="pixel_navbar_anim_summary">Включить анимацию кнопки "Домой" на панели навигации</string>
   <string name="brightness_icon_title">Значок яркости</string>
   <string name="brightness_icon_summary">Показывать значок яркости слева от ползунка яркости для настройки автоматической яркости</string>
   <string name="qs_easy_toggle_title">Продвинутое переключение быстрых настроек</string>

@@ -627,7 +627,7 @@
 
     <!-- Navbar Animation -->
     <string name="pixel_navbar_anim_title">Pixel navbar animation</string>
-    <string name="pixel_navbar_anim_summary">Enables the pixel navbar animation (restart required)</string>
+    <string name="pixel_navbar_anim_summary">Enables the pixel navbar animation</string>
 
     <!-- Brightness icon-->
     <string name="brightness_icon_title">Brightness icon</string>
