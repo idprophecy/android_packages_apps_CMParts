@@ -38,6 +38,12 @@
         android:summary="@string/brightness_icon_summary"
         android:defaultValue="false"/>
 
+    <cyanogenmod.preference.SecureSettingSwitchPreference
+        android:key="qs_easy_toggle"
+        android:title="@string/qs_easy_toggle_title"
+        android:summary="@string/qs_easy_toggle_summary"
+        android:defaultValue="false" />
+
     <PreferenceCategory
         android:title="@string/status_bar_icons_title">
 
