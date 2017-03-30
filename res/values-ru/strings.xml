@@ -546,4 +546,12 @@
   <string name="touchscreen_gesture_action_play_pause_music">Воспр. или остановить музыку</string>
   <string name="touchscreen_gesture_action_previous_track">Перейти к предыдущему треку</string>
   <string name="touchscreen_gesture_action_next_track">Перейти к следующему треку</string>
+  <string name="su_indicator">Индикатор суперпользователя</string>
+  <string name="su_indicator_summary">Показывать индикатор суперпользователя в строке состояния, когда сеанс активен (требуется перезагрузка)</string>
+  <string name="pixel_navbar_anim_title">Pixel анимация панели навигации</string>
+  <string name="pixel_navbar_anim_summary">Включить анимацию кнопки "Домой" на панели навигации (требуется перезагрузка)</string>
+  <string name="brightness_icon_title">Значок яркости</string>
+  <string name="brightness_icon_summary">Показывать значок яркости слева от ползунка яркости для настройки автоматической яркости</string>
+  <string name="qs_easy_toggle_title">Продвинутое переключение быстрых настроек</string>
+  <string name="qs_easy_toggle_summary">Одно нажатие для вкл/выкл Bluetooth, передачи данных, местоположения или Wi-Fi</string>
 </resources>
