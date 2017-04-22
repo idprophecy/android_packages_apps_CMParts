@@ -554,4 +554,17 @@
   <string name="brightness_icon_summary">Показывать значок яркости слева от ползунка яркости для настройки автоматической яркости</string>
   <string name="qs_easy_toggle_title">Продвинутое переключение быстрых настроек</string>
   <string name="qs_easy_toggle_summary">Одно нажатие для вкл/выкл Bluetooth, передачи данных, местоположения или Wi-Fi</string>
+  <string name="network_traffic_settings_title">Мониторинг сетевого трафика</string>
+  <string name="network_traffic_settings_summary">Показывать текущий объем сетевого трафика в строке состояния</string>
+  <string name="network_traffic_mode_title">Режим отображения</string>
+  <string name="network_traffic_mode_disable">Отключено</string>
+  <string name="network_traffic_mode_up">Передача</string>
+  <string name="network_traffic_mode_down">Получение</string>
+  <string name="network_traffic_mode_all">Получение и передача</string>
+  <string name="network_traffic_autohide">Авто-скрытие</string>
+  <string name="network_traffic_autohide_summary">Скрывать мониторинг трафика, когда нет активности</string>
+  <string name="network_traffic_hide_arrows">Скрыть стрелки</string>
+  <string name="network_traffic_hide_arrows_summary">Скрывать стрелки мониторинга трафика</string>
+  <string name="network_traffic_autohide_threshold_title">Порог бездействия</string>
+  <string name="network_traffic_autohide_threshold_summary">Отображение трафика будет скрыто, если в нем меньше <xliff:g id="value">%1$s</xliff:g> <xliff:g id="unit" example="kB">%2$s</xliff:g>/s трафика</string>
 </resources>
